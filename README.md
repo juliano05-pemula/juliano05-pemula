@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Halo, saya **Arfan Juliano**
 
-<!--
-**juliano05-pemula/juliano05-pemula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Pelajar+SMK+Plus+Pelitan+Nusantara;Suka+belajar+hal+baru+tentang+kode+🚀" alt="typing intro" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 Tentang Saya
+
+Saya seorang **pelajar di SMK Plus Pelitan Nusantara**. Saya suka belajar hal baru tentang kode yang bersih, terstruktur, dan mudah dirawat. Saat ini sedang belajar **HTML**, **CSS**, dan **JavaScript**.
+
+---
+
+## 🧰 Tech Stack
+
+**Bahasa & Tools:** `HTML` · `CSS` · `JavaScript`
+
+---
+
+## 📬 Kontak
+
+* Email: **[arfanjuliano2009@gmail.com](mailto:arfanjuliano2009@gmail.com)**
+
