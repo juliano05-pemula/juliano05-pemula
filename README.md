@@ -1,28 +1,53 @@
-# 👋 Halo, saya **Arfan Juliano**
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Halo 👋</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: linear-gradient(135deg, #1d2b64, #f8cdda);
+      font-family: 'Poppins', sans-serif;
+      color: white;
+      text-align: center;
+    }
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Pelajar+SMK+Plus+Pelitan+Nusantara;Suka+belajar+hal+baru+tentang+kode+🚀" alt="typing intro" />
-</p>
+    h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
-</p>
+    .typed-cursor {
+      font-weight: bold;
+      font-size: 2.5rem;
+      color: #ffd700;
+    }
+  </style>
+</head>
+<body>
+  <h1><span id="typing"></span></h1>
 
----
-
-## 🧭 Tentang Saya
-
-Saya seorang **pelajar di SMK Plus Pelitan Nusantara**. Saya suka belajar hal baru tentang kode yang bersih, terstruktur, dan mudah dirawat. Saat ini sedang belajar **HTML**, **CSS**, dan **JavaScript**.
-
----
-
-## 🧰 Tech Stack
-
-**Bahasa & Tools:** `HTML` · `CSS` · `JavaScript`
-
----
-
-## 📬 Kontak
-
-* Email: **[arfanjuliano2009@gmail.com](mailto:arfanjuliano2009@gmail.com)**
-
+  <!-- Typed.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+  <script>
+    var typed = new Typed("#typing", {
+      strings: [
+        "Halo, saya Juliano 👋",
+        "Seorang Pelajar & Developer Pemula 🚀",
+        "Selamat datang di Website saya 🌐"
+      ],
+      typeSpeed: 60,
+      backSpeed: 40,
+      backDelay: 1500,
+      startDelay: 500,
+      loop: true,
+      showCursor: true,
+      cursorChar: "|"
+    });
+  </script>
+</body>
+</html>
