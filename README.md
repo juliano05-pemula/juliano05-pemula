@@ -36,8 +36,9 @@
 ---
 
 ## 📬 Connect With Me
-- ✉️ Email: **arfan.juliano5729@gmail.com**  
-- 🌐 Portfolio: *Coming Soon...*  
+- ✉️ Email: **arfanjuliano2009@gmail.com**  
+- 🌐 Portfolio: adadeh lagi proses
+-   
 <!-- Kalo punya LinkedIn / IG / Discord bisa ditambah di sini -->  
 
 ---
