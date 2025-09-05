@@ -3,10 +3,7 @@
 # 👨‍💻 Arfan Juliano  
 ### 🚀 Junior Developer | Belajar Web & Cyber Security  
 
-<p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Halo!+Gue+Arfan+Juliano.;Gue+lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Tujuan+gue:+Jadi+Fullstack+Developer+🔥;Selamat+datang+di+profil+GitHub+gue!+🙌)
-
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Halo!+Gue+Arfan+Juliano.;Gue+lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Tujuan+gue:+Jadi+Fullstack+Developer+🔥;Selamat+datang+di+profil+GitHub+gue!+🙌)
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF" />
