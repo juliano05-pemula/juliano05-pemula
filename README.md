@@ -1,37 +1,48 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=200&section=header&text=Hi,+I’m+Arfan+Juliano!&fontSize=40&fontAlign=center&fontColor=ffffff" />
 
-# 👋 Halo, saya Arfan Juliano!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,+I'm+Arfan+Juliano!&fontSize=40&fontAlign=center&fontColor=ffffff" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Halo,+nama+gua+Arfan+Juliano.;...........gua+Lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Selamat+datang+di+profil+GitHub+saya!)
+# 👨‍💻 Arfan Juliano
+### 🚀 Junior Developer | Belajar Web & Cyber Security  
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding GIF" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Halo!+Gue+Arfan+Juliano.;Gue+lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Tujuan+gue:+Jadi+Fullstack+Developer+🔥;Selamat+datang+di+profil+GitHub+gue!+🙌" alt="Typing SVG" />
+</p>
 
----
-
-## 🛠️ Tools & Teknologi:
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF" />
+</p>
 
 ---
 
-## 🎯 Target Saya:
-- Mampu membuat website dan aplikasi dari awal sampai akhir
-- Belajar backend dan database
-- Siap kerja secara remote / freelance
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,html,css,javascript,git,github,vscode" />
+</p>
 
 ---
 
-## 
-- ✉️ Email: **arfan.juliano5729@gmail.com**
-- 📸 Instagram: [@fnzy522](https://instagram.com/fnzy522)
-- 📱 WhatsApp: [085123523608](https://wa.me/6285123523608)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arfanjuliano&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfanjuliano&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
+## 🎯 Goals
+- 💻 Bisa bikin website & aplikasi dari nol  
+- 🛡️ Explore dunia **Cyber Security**  
+- 🌍 Siap kerja remote / freelance  
 
-> *"Belajar pelan-pelan asal konsisten, nanti juga jago!"* 💪
+---
 
+## 📬 Connect With Me
+- ✉️ Email: **arfan.juliano5729@gmail.com**  
+- 🌐 Portfolio: *Coming Soon...*  
+- 💼 LinkedIn / IG (opsional kalau mau ditambahin)  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
