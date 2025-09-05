@@ -1,7 +1,6 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,+I'm+Arfan+Juliano!&fontSize=40&fontAlign=center&fontColor=ffffff" />
 
-# 👨‍💻 Arfan Juliano
+# 👨‍💻 Arfan Juliano  
 ### 🚀 Junior Developer | Belajar Web & Cyber Security  
 
 <p align="center">
@@ -41,7 +40,7 @@
 ## 📬 Connect With Me
 - ✉️ Email: **arfan.juliano5729@gmail.com**  
 - 🌐 Portfolio: *Coming Soon...*  
-- 💼 LinkedIn / IG (opsional kalau mau ditambahin)  
+<!-- Kalo punya LinkedIn / IG / Discord bisa ditambah di sini -->  
 
 ---
 
