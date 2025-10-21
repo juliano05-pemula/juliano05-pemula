@@ -7,7 +7,9 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Halo!+Gue+Arfan+Juliano.;..Gue+lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Tujuan+gue:+Jadi+Fullstack+Developer+🔥;Selamat+datang+di+profil+GitHub+gue!+🙌" alt="Typing SVG" />
+  <a href="https://github.com/arfanjuliano">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Halo!+Gue+Arfan+Juliano.;Gue+lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Tujuan+gue:+Jadi+Fullstack+Developer+🔥;Selamat+datang+di+profil+GitHub+gue!+🙌" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- GIF -->
@@ -19,7 +21,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,html,css,javascript,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,php,python,git,github,vscode" />
 </p>
 
 ---
