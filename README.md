@@ -3,7 +3,7 @@
 
 <!-- Title -->
 <h1 align="center">👨‍💻 Arfan Juliano</h1>
-<h3 align="center">🚀 Junior Developer | Belajar Web & Cyber Security</h3>
+<h3 align="center">🚀 Junior Developer | Belajar Web & Mobiledev</h3>
 
 <!-- Typing Effect -->
 <p align="center">
@@ -26,13 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliano05-pemula&show_icons=true&theme=tokyonight&cache_seconds=7200" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliano05-pemula&layout=compact&theme=tokyonight&cache_seconds=7200" height="165" />
-</p>
 
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -50,8 +44,8 @@
 
 ## 🎯 Goals
 - 💻 Bisa bikin website & aplikasi dari nol  
-- 🛡️ Explore dunia **Cyber Security**  
-- 🌍 Siap kerja remote / freelance  
+- 🛡️ Explore dunia **MObileDevloper**  
+- 🌍 kerja gaji 2 digit 🤣  
 
 ---
 
