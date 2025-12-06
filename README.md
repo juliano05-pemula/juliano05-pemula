@@ -7,8 +7,8 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <a href="https://github.com/arfanjuliano">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Halo!+Gue+Arfan+Juliano.;Gue+lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Tujuan+gue:+Jadi+Fullstack+Developer+🔥;Selamat+datang+di+profil+GitHub+gue!+🙌" alt="Typing SVG" />
+  <a href="https://github.com/juliano05-pemula">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=650&lines=Halo!+Gue+Arfan+Juliano.;Gue+lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Tujuan+gue:+Jadi+Fullstack+Developer+🔥;Selamat+datang+di+profil+GitHub+gue!+🙌" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,8 +28,22 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arfanjuliano&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfanjuliano&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juliano05-pemula&show_icons=true&theme=tokyonight&cache_seconds=7200" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliano05-pemula&layout=compact&theme=tokyonight&cache_seconds=7200" height="165" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juliano05-pemula&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📌 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=juliano05-pemula&theme=tokyonight" />
 </p>
 
 ---
@@ -42,12 +56,14 @@
 ---
 
 ## 📬 Connect With Me
-- ✉️ **Email:** [arfanjuliano2009@gmail.com](mailto:arfanjuliano2009@gmail.com)  
-- 🌐 **Portfolio:** *(lagi proses)*  
-<!-- Tambahin kalau udah punya -->
-<!-- 🌍 [LinkedIn](https://linkedin.com/in/username) | 📸 [Instagram](https://instagram.com/username) | 💬 Discord: Arfan#1234 -->
+- ✉️ **Email:** [arfanjuliano2009@gmail.com](mailto:arfanjuliano2009@gmail.com)
+- 🌐 **Portfolio:** *(dalam proses pengerjaan)*
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juliano05-pemula&color=blue&style=for-the-badge" />
+</p>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
