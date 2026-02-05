@@ -21,12 +21,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliano05-pemula&show_icons=true&theme=tokyonight" />
-</p>
 
----
 
 ## 🔥 GitHub Streak
 <p align="center">
@@ -35,12 +30,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juliano05-pemula&theme=tokyonight&row=1&column=6" />
-</p>
 
----
 
 ## 🎯 Goals
 - 💻 Bisa bikin website & aplikasi dari nol  
