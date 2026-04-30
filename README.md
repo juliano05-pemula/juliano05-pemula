@@ -12,7 +12,6 @@
 
 * 🎓 Student of **Software Engineering (RPL)**
 * 💻 Currently learning **Web & Mobile Development**
-* 🔐 Interested in **Cyber Security & Machine Learning**
 * 🚀 Goal: Become a **Fullstack Developer**
 * ⚡ Fun fact: *Consistency beats intensity.*
 
@@ -39,13 +38,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juliano05-pemula/juliano05-pemula/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🎯 Current Goals
 
