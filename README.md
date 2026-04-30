@@ -10,8 +10,9 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Siswa **Software Engineering (RPL)**
+* 🎓 Student of **Software Engineering (RPL)**
 * 💻 Currently learning **Web & Mobile Development**
+* 🔐 Interested in **Cyber Security & Machine Learning**
 * 🚀 Goal: Become a **Fullstack Developer**
 * ⚡ Fun fact: *Consistency beats intensity.*
 
@@ -38,6 +39,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juliano05-pemula/juliano05-pemula/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## 🎯 Current Goals
@@ -54,6 +61,7 @@
 <p align="center">
   <a href="mailto:arfanjuliano2009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/juliano05-pemula"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/aaarfannn_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
